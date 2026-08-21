@@ -1,0 +1,18 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 生成报告（HTML 全盘扫描等）
+deliverables/
+
+# 数据缓存
+share_cache.json
+share_cache_tmp.json
+
+# 临时脚本
+*_temp.py
+*_tmp.py
+
+# 系统文件
+nul
+Thumbs.db
